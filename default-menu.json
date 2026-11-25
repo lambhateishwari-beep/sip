@@ -1,0 +1,3158 @@
+{
+ "categories": [
+  {
+   "id": "starters",
+   "name": "Starters",
+   "group": "food",
+   "hidden": false,
+   "items": [
+    {
+     "id": "i001",
+     "name": "Cube Pizza Pocket",
+     "desc": "",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 110
+      }
+     ]
+    },
+    {
+     "id": "i002",
+     "name": "Bombay Crispy Fry",
+     "desc": "",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 110
+      }
+     ]
+    },
+    {
+     "id": "i003",
+     "name": "Cheese Kurkure",
+     "desc": "",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 140
+      }
+     ]
+    },
+    {
+     "id": "i004",
+     "name": "Veg Cutlet",
+     "desc": "",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 140
+      }
+     ]
+    },
+    {
+     "id": "i005",
+     "name": "Cheese Pakoda",
+     "desc": "",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 145
+      }
+     ]
+    },
+    {
+     "id": "i006",
+     "name": "Cheese Pizza Pocket",
+     "desc": "",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 150
+      }
+     ]
+    },
+    {
+     "id": "i007",
+     "name": "Veg Fingers",
+     "desc": "",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 150
+      }
+     ]
+    },
+    {
+     "id": "i008",
+     "name": "Cottage Paneer",
+     "desc": "",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 155
+      }
+     ]
+    },
+    {
+     "id": "i009",
+     "name": "Hara Bhara Kabab",
+     "desc": "",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 160
+      }
+     ]
+    },
+    {
+     "id": "i010",
+     "name": "Cheese Cherry Pineapple",
+     "desc": "",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 165
+      }
+     ]
+    },
+    {
+     "id": "i011",
+     "name": "Chicken Sausages",
+     "desc": "",
+     "section": "Non Veg",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 140
+      }
+     ]
+    },
+    {
+     "id": "i012",
+     "name": "Fish Fingers",
+     "desc": "",
+     "section": "Non Veg",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 160
+      }
+     ]
+    },
+    {
+     "id": "i013",
+     "name": "Chicken Balls",
+     "desc": "",
+     "section": "Non Veg",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 180
+      }
+     ]
+    },
+    {
+     "id": "i014",
+     "name": "BBQ Chicken Wings",
+     "desc": "",
+     "section": "Non Veg",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 180
+      }
+     ]
+    },
+    {
+     "id": "i015",
+     "name": "Fried Crab",
+     "desc": "",
+     "section": "Non Veg",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 180
+      }
+     ]
+    },
+    {
+     "id": "i016",
+     "name": "Peri Peri Chicken Wings",
+     "desc": "",
+     "section": "Non Veg",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 200
+      }
+     ]
+    },
+    {
+     "id": "i017",
+     "name": "Fried Chicken Basket",
+     "desc": "",
+     "section": "Non Veg",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 380
+      }
+     ]
+    },
+    {
+     "id": "i018",
+     "name": "Cheesy Chicken Basket",
+     "desc": "",
+     "section": "Non Veg",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 405
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "combos",
+   "name": "TGS Combo Special",
+   "group": "food",
+   "hidden": false,
+   "items": [
+    {
+     "id": "i019",
+     "name": "Veg Burger Combo",
+     "desc": "1 Burger, Fries, Mocktail",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 149
+      }
+     ]
+    },
+    {
+     "id": "i020",
+     "name": "Sandwich Combo Veg",
+     "desc": "Fries, Sandwich, Coke",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 159
+      }
+     ]
+    },
+    {
+     "id": "i021",
+     "name": "Pizza Combo Veg",
+     "desc": "Exotic Paneer Pizza, 1 Mocktail, Cheese Bowl",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 189
+      }
+     ]
+    },
+    {
+     "id": "i022",
+     "name": "Non-Veg Burger Combo",
+     "desc": "1 Burger, Fries, Mocktail",
+     "section": "Non Veg",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 209
+      }
+     ]
+    },
+    {
+     "id": "i023",
+     "name": "Sandwich Combo Non-Veg",
+     "desc": "Fries, Sandwich, Coke",
+     "section": "Non Veg",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 249
+      }
+     ]
+    },
+    {
+     "id": "i024",
+     "name": "Pizza Combo Non-Veg",
+     "desc": "Non-Veg Pizza, 1 Mocktail, Cheese Bowl",
+     "section": "Non Veg",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 299
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pizza",
+   "name": "Pizza",
+   "group": "food",
+   "hidden": false,
+   "items": [
+    {
+     "id": "i025",
+     "name": "Margherita",
+     "desc": "Single Cheese Topping",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "7 inch",
+       "price": 89
+      },
+      {
+       "label": "10 inch",
+       "price": 175
+      }
+     ]
+    },
+    {
+     "id": "i026",
+     "name": "Cheese Corn",
+     "desc": "Cheese & Corn",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "7 inch",
+       "price": 89
+      },
+      {
+       "label": "10 inch",
+       "price": 175
+      }
+     ]
+    },
+    {
+     "id": "i027",
+     "name": "Mix Veggie",
+     "desc": "Tomato, Onion, Corn",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "7 inch",
+       "price": 99
+      },
+      {
+       "label": "10 inch",
+       "price": 189
+      }
+     ]
+    },
+    {
+     "id": "i028",
+     "name": "Exotic Paneer",
+     "desc": "Cheese & Flavoured Paneer",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "7 inch",
+       "price": 99
+      },
+      {
+       "label": "10 inch",
+       "price": 199
+      }
+     ]
+    },
+    {
+     "id": "i029",
+     "name": "Farm Fresh",
+     "desc": "Capsicum, Onion, Corn, Mushroom",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "7 inch",
+       "price": 199
+      },
+      {
+       "label": "10 inch",
+       "price": 359
+      }
+     ]
+    },
+    {
+     "id": "i030",
+     "name": "BBQ Magic Mushroom",
+     "desc": "Onion, Corn, Mushroom",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "7 inch",
+       "price": 199
+      },
+      {
+       "label": "10 inch",
+       "price": 359
+      }
+     ]
+    },
+    {
+     "id": "i031",
+     "name": "Schezwan Veg Spicy",
+     "desc": "Onion, Capsicum, Corn, Spring Onion",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "7 inch",
+       "price": 199
+      },
+      {
+       "label": "10 inch",
+       "price": 359
+      }
+     ]
+    },
+    {
+     "id": "i032",
+     "name": "Peri Peri Paneer",
+     "desc": "Paneer, Olive, Jalapenos, Bellpepper",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "7 inch",
+       "price": 239
+      },
+      {
+       "label": "10 inch",
+       "price": 399
+      }
+     ]
+    },
+    {
+     "id": "i033",
+     "name": "Paneer Makhni",
+     "desc": "Makhni Paneer, Capsicum, Onion, Corn, Coriander",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "7 inch",
+       "price": 239
+      },
+      {
+       "label": "10 inch",
+       "price": 399
+      }
+     ]
+    },
+    {
+     "id": "i034",
+     "name": "Tandoori Paneer",
+     "desc": "Tandoori Paneer, Bellpepper, Veggies, Onion, Green Chilli",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "7 inch",
+       "price": 239
+      },
+      {
+       "label": "10 inch",
+       "price": 399
+      }
+     ]
+    },
+    {
+     "id": "i035",
+     "name": "Veg Overload",
+     "desc": "Paneer, Mushroom, Bellpepper, Veggies, Babycorn, Onion",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "7 inch",
+       "price": 269
+      },
+      {
+       "label": "10 inch",
+       "price": 479
+      }
+     ]
+    },
+    {
+     "id": "i036",
+     "name": "Mexican Supreme",
+     "desc": "Nachos, Jalapenos, Olive, Bellpepper",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "7 inch",
+       "price": 269
+      },
+      {
+       "label": "10 inch",
+       "price": 479
+      }
+     ]
+    },
+    {
+     "id": "i037",
+     "name": "The Golden Sip Special",
+     "desc": "Paneer, Bellpepper, Olive, Mushroom, Babycorn",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "7 inch",
+       "price": 269
+      },
+      {
+       "label": "10 inch",
+       "price": 479
+      }
+     ]
+    },
+    {
+     "id": "i038",
+     "name": "Cheesy Chicken",
+     "desc": "Cheese & Grilled Chicken",
+     "section": "Non Veg",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "7 inch",
+       "price": 179
+      },
+      {
+       "label": "10 inch",
+       "price": 289
+      }
+     ]
+    },
+    {
+     "id": "i039",
+     "name": "Chicken Sausage",
+     "desc": "Cheese & Chicken Sausages",
+     "section": "Non Veg",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "7 inch",
+       "price": 179
+      },
+      {
+       "label": "10 inch",
+       "price": 289
+      }
+     ]
+    },
+    {
+     "id": "i040",
+     "name": "BBQ Chicken BBQ",
+     "desc": "Chicken, Mushroom, Onion",
+     "section": "Non Veg",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "7 inch",
+       "price": 249
+      },
+      {
+       "label": "10 inch",
+       "price": 399
+      }
+     ]
+    },
+    {
+     "id": "i041",
+     "name": "Kheema Chicken",
+     "desc": "Chicken Kheema, Onion, Coriander",
+     "section": "Non Veg",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "7 inch",
+       "price": 229
+      },
+      {
+       "label": "10 inch",
+       "price": 349
+      }
+     ]
+    },
+    {
+     "id": "i042",
+     "name": "Schezwan Chicken Spicy",
+     "desc": "Chicken, Onion, Corn, Capsicum, Spring Onion",
+     "section": "Non Veg",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "7 inch",
+       "price": 229
+      },
+      {
+       "label": "10 inch",
+       "price": 379
+      }
+     ]
+    },
+    {
+     "id": "i043",
+     "name": "Chicken Peri Peri Peri Peri",
+     "desc": "Chicken, Olives, Jalapenos, Capsicum",
+     "section": "Non Veg",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "7 inch",
+       "price": 269
+      },
+      {
+       "label": "10 inch",
+       "price": 469
+      }
+     ]
+    },
+    {
+     "id": "i044",
+     "name": "Chicken Makhni",
+     "desc": "Chicken Makhni, Capsicum, Onion, Corn",
+     "section": "Non Veg",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "7 inch",
+       "price": 269
+      },
+      {
+       "label": "10 inch",
+       "price": 469
+      }
+     ]
+    },
+    {
+     "id": "i045",
+     "name": "Tandoori Chicken",
+     "desc": "Chicken Tandoori, Bellpepper, Onion, Green Chilli",
+     "section": "Non Veg",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "7 inch",
+       "price": 269
+      },
+      {
+       "label": "10 inch",
+       "price": 469
+      }
+     ]
+    },
+    {
+     "id": "i046",
+     "name": "Overload Chicken",
+     "desc": "Chicken Sausages, Chicken Kheema, Roasted Chicken, Bell pepper",
+     "section": "Non Veg",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "7 inch",
+       "price": 309
+      },
+      {
+       "label": "10 inch",
+       "price": 589
+      }
+     ]
+    },
+    {
+     "id": "i047",
+     "name": "Mexican Chicken",
+     "desc": "Chicken Sausages, Nachos, Jalapenos, Olive, Bellpepper",
+     "section": "Non Veg",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "7 inch",
+       "price": 309
+      },
+      {
+       "label": "10 inch",
+       "price": 589
+      }
+     ]
+    },
+    {
+     "id": "i048",
+     "name": "Special TGS Non Veg",
+     "desc": "Salami Chicken, Chicken Sausages, Olive, Mushroom, Baby Corn, Bellpepper",
+     "section": "Non Veg",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "7 inch",
+       "price": 309
+      },
+      {
+       "label": "10 inch",
+       "price": 589
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "burgers",
+   "name": "Burgers & Fries",
+   "group": "food",
+   "hidden": false,
+   "items": [
+    {
+     "id": "i049",
+     "name": "Veg Burger",
+     "desc": "",
+     "section": "Veg Burger",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 89
+      }
+     ]
+    },
+    {
+     "id": "i050",
+     "name": "BBQ Veg Burger",
+     "desc": "",
+     "section": "Veg Burger",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 109
+      }
+     ]
+    },
+    {
+     "id": "i051",
+     "name": "Spice Paneer Burger",
+     "desc": "",
+     "section": "Veg Burger",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 139
+      }
+     ]
+    },
+    {
+     "id": "i052",
+     "name": "TGS Bigshow Burger",
+     "desc": "",
+     "section": "Veg Burger",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 159
+      }
+     ]
+    },
+    {
+     "id": "i053",
+     "name": "BBQ Paneer Steak Burger",
+     "desc": "",
+     "section": "Veg Burger",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 129
+      }
+     ]
+    },
+    {
+     "id": "i054",
+     "name": "Chicken Burger",
+     "desc": "",
+     "section": "Non Veg Burger",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 109
+      }
+     ]
+    },
+    {
+     "id": "i055",
+     "name": "BBQ Chicken Burger",
+     "desc": "",
+     "section": "Non Veg Burger",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 129
+      }
+     ]
+    },
+    {
+     "id": "i056",
+     "name": "Spice Chicken Burger",
+     "desc": "",
+     "section": "Non Veg Burger",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 139
+      }
+     ]
+    },
+    {
+     "id": "i057",
+     "name": "TGS Bigshow Burger",
+     "desc": "",
+     "section": "Non Veg Burger",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 149
+      }
+     ]
+    },
+    {
+     "id": "i058",
+     "name": "French Fries",
+     "desc": "",
+     "section": "Fries",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 79
+      }
+     ]
+    },
+    {
+     "id": "i059",
+     "name": "Peri Peri Fries",
+     "desc": "",
+     "section": "Fries",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 109
+      }
+     ]
+    },
+    {
+     "id": "i060",
+     "name": "Chipotle Fries",
+     "desc": "",
+     "section": "Fries",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 119
+      }
+     ]
+    },
+    {
+     "id": "i061",
+     "name": "Cheesy Peri Peri Fries",
+     "desc": "",
+     "section": "Fries",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 129
+      }
+     ]
+    },
+    {
+     "id": "i062",
+     "name": "Double Coated Fries",
+     "desc": "",
+     "section": "Fries",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 119
+      }
+     ]
+    },
+    {
+     "id": "i063",
+     "name": "Double Coated Cheese Fries",
+     "desc": "",
+     "section": "Fries",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 159
+      }
+     ]
+    },
+    {
+     "id": "i064",
+     "name": "Nachos With Cheese & Salsa",
+     "desc": "",
+     "section": "Finger Bites",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 129
+      }
+     ]
+    },
+    {
+     "id": "i065",
+     "name": "Cheese Balls",
+     "desc": "",
+     "section": "Finger Bites",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 129
+      }
+     ]
+    },
+    {
+     "id": "i066",
+     "name": "Cheese Corn Balls",
+     "desc": "",
+     "section": "Finger Bites",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 149
+      }
+     ]
+    },
+    {
+     "id": "i067",
+     "name": "Jalapeno Cheese Balls",
+     "desc": "",
+     "section": "Finger Bites",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 149
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sandwiches",
+   "name": "Sandwiches",
+   "group": "food",
+   "hidden": false,
+   "items": [
+    {
+     "id": "i068",
+     "name": "Veg Sandwich",
+     "desc": "",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 89
+      }
+     ]
+    },
+    {
+     "id": "i069",
+     "name": "Veg Cheese Sandwich",
+     "desc": "",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 99
+      }
+     ]
+    },
+    {
+     "id": "i070",
+     "name": "Toast Bread Butter",
+     "desc": "",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 69
+      }
+     ]
+    },
+    {
+     "id": "i071",
+     "name": "Veg Club Sandwich",
+     "desc": "",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 120
+      }
+     ]
+    },
+    {
+     "id": "i072",
+     "name": "Cheese Grill Sandwich",
+     "desc": "",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 120
+      }
+     ]
+    },
+    {
+     "id": "i073",
+     "name": "Paneer Tikka Sandwich",
+     "desc": "",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 149
+      }
+     ]
+    },
+    {
+     "id": "i074",
+     "name": "Chocolate Sandwich",
+     "desc": "",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 129
+      }
+     ]
+    },
+    {
+     "id": "i075",
+     "name": "Open Cheese Sandwich",
+     "desc": "",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 149
+      }
+     ]
+    },
+    {
+     "id": "i076",
+     "name": "BBQ Paneer Sandwich",
+     "desc": "",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 159
+      }
+     ]
+    },
+    {
+     "id": "i077",
+     "name": "Cheese Garlic Bread",
+     "desc": "",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 119
+      }
+     ]
+    },
+    {
+     "id": "i078",
+     "name": "Cheese Chilly Toast",
+     "desc": "",
+     "section": "Veg",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 119
+      }
+     ]
+    },
+    {
+     "id": "i079",
+     "name": "Chicken Sandwich",
+     "desc": "",
+     "section": "Non Veg",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 159
+      }
+     ]
+    },
+    {
+     "id": "i080",
+     "name": "Chicken Grill Sandwich",
+     "desc": "",
+     "section": "Non Veg",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 169
+      }
+     ]
+    },
+    {
+     "id": "i081",
+     "name": "Chicken Cheese Grill Sandwich",
+     "desc": "",
+     "section": "Non Veg",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 179
+      }
+     ]
+    },
+    {
+     "id": "i082",
+     "name": "BBQ Grill Chicken Sandwich",
+     "desc": "",
+     "section": "Non Veg",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 189
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fresh",
+   "name": "Pasta, Rice & Salads",
+   "group": "food",
+   "hidden": false,
+   "items": [
+    {
+     "id": "i083",
+     "name": "Alfredo White Sauce Pasta",
+     "desc": "",
+     "section": "Pasta",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 199
+      }
+     ]
+    },
+    {
+     "id": "i084",
+     "name": "Arrabbiata Red Sauce Pasta",
+     "desc": "",
+     "section": "Pasta",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 199
+      }
+     ]
+    },
+    {
+     "id": "i085",
+     "name": "Spaghetti Veg (White Sauce)",
+     "desc": "",
+     "section": "Pasta",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 199
+      }
+     ]
+    },
+    {
+     "id": "i086",
+     "name": "Spaghetti Veg (Red Sauce)",
+     "desc": "",
+     "section": "Pasta",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 199
+      }
+     ]
+    },
+    {
+     "id": "i087",
+     "name": "Spaghetti Veg (Mix Sauce)",
+     "desc": "",
+     "section": "Pasta",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 199
+      }
+     ]
+    },
+    {
+     "id": "i088",
+     "name": "Primavera (Mix Sauce)",
+     "desc": "",
+     "section": "Pasta",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 199
+      }
+     ]
+    },
+    {
+     "id": "i089",
+     "name": "Tawa Pulav",
+     "desc": "",
+     "section": "Golden Bowl",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 135
+      }
+     ]
+    },
+    {
+     "id": "i090",
+     "name": "Dry Fruit Tawa Pulav",
+     "desc": "",
+     "section": "Golden Bowl",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 145
+      }
+     ]
+    },
+    {
+     "id": "i091",
+     "name": "Golden Ghee Tawa Pulav",
+     "desc": "",
+     "section": "Golden Bowl",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 155
+      }
+     ]
+    },
+    {
+     "id": "i092",
+     "name": "Cheese Tawa Pulav",
+     "desc": "",
+     "section": "Golden Bowl",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 165
+      }
+     ]
+    },
+    {
+     "id": "i093",
+     "name": "Fruit Salad",
+     "desc": "",
+     "section": "Veg Salad",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 135
+      }
+     ]
+    },
+    {
+     "id": "i094",
+     "name": "Fruit Salad With Cream",
+     "desc": "",
+     "section": "Veg Salad",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 145
+      }
+     ]
+    },
+    {
+     "id": "i095",
+     "name": "Veg Salad",
+     "desc": "",
+     "section": "Veg Salad",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 89
+      }
+     ]
+    },
+    {
+     "id": "i096",
+     "name": "Russian Salad",
+     "desc": "",
+     "section": "Veg Salad",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 170
+      }
+     ]
+    },
+    {
+     "id": "i097",
+     "name": "Greek Salad",
+     "desc": "",
+     "section": "Veg Salad",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 160
+      }
+     ]
+    },
+    {
+     "id": "i098",
+     "name": "Chicken Salad",
+     "desc": "",
+     "section": "Non Veg Salad",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 200
+      }
+     ]
+    },
+    {
+     "id": "i099",
+     "name": "Chicken Greek Salad",
+     "desc": "",
+     "section": "Non Veg Salad",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 239
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "parathas",
+   "name": "Parathas & Desi",
+   "group": "food",
+   "hidden": false,
+   "items": []
+  },
+  {
+   "id": "maggie",
+   "name": "Maggie",
+   "group": "food",
+   "hidden": false,
+   "items": [
+    {
+     "id": "i100",
+     "name": "Veg Maggie",
+     "desc": "",
+     "section": "",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 40
+      }
+     ]
+    },
+    {
+     "id": "i101",
+     "name": "Veg Peri Peri Maggie",
+     "desc": "",
+     "section": "",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 50
+      }
+     ]
+    },
+    {
+     "id": "i102",
+     "name": "Veg Cheese Maggie",
+     "desc": "",
+     "section": "",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 60
+      }
+     ]
+    },
+    {
+     "id": "i103",
+     "name": "Egg Maggie",
+     "desc": "",
+     "section": "",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 80
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "momos",
+   "name": "Momos",
+   "group": "food",
+   "hidden": false,
+   "items": [
+    {
+     "id": "i104",
+     "name": "Veg Momos (5 Pcs)",
+     "desc": "",
+     "section": "Veg Momos",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 50
+      }
+     ]
+    },
+    {
+     "id": "i105",
+     "name": "Veg Fried Momos (5 Pcs)",
+     "desc": "",
+     "section": "Veg Momos",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 70
+      }
+     ]
+    },
+    {
+     "id": "i106",
+     "name": "Veg Paneer Fried Momos (5 Pcs)",
+     "desc": "",
+     "section": "Veg Momos",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 80
+      }
+     ]
+    },
+    {
+     "id": "i107",
+     "name": "Chicken Momos (5 Pcs)",
+     "desc": "",
+     "section": "Non Veg Momos",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 70
+      }
+     ]
+    },
+    {
+     "id": "i108",
+     "name": "Chicken Fried Momos (5 Pcs)",
+     "desc": "",
+     "section": "Non Veg Momos",
+     "type": "nonveg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 90
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "quickbites",
+   "name": "Quick Bites & Desserts",
+   "group": "bev",
+   "hidden": false,
+   "items": [
+    {
+     "id": "i109",
+     "name": "Bread Butter",
+     "desc": "",
+     "section": "Quick Bites",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 55
+      }
+     ]
+    },
+    {
+     "id": "i110",
+     "name": "Browny Cake",
+     "desc": "",
+     "section": "Quick Bites",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 60
+      }
+     ]
+    },
+    {
+     "id": "i111",
+     "name": "Jam Bread",
+     "desc": "",
+     "section": "Quick Bites",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 25
+      }
+     ]
+    },
+    {
+     "id": "i112",
+     "name": "Cookies",
+     "desc": "",
+     "section": "Quick Bites",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 20
+      }
+     ]
+    },
+    {
+     "id": "i113",
+     "name": "Chocolate Cookies",
+     "desc": "",
+     "section": "Quick Bites",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 25
+      }
+     ]
+    },
+    {
+     "id": "i114",
+     "name": "Classic Bun Maska",
+     "desc": "",
+     "section": "Quick Bites",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 35
+      }
+     ]
+    },
+    {
+     "id": "i115",
+     "name": "Mango Bun Maska",
+     "desc": "",
+     "section": "Quick Bites",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 45
+      }
+     ]
+    },
+    {
+     "id": "i116",
+     "name": "Blueberry Bun Maska",
+     "desc": "",
+     "section": "Quick Bites",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 55
+      }
+     ]
+    },
+    {
+     "id": "i117",
+     "name": "Rose Pistachio Bun Maska",
+     "desc": "",
+     "section": "Quick Bites",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 60
+      }
+     ]
+    },
+    {
+     "id": "i118",
+     "name": "Chocolate Bun Maska",
+     "desc": "",
+     "section": "Quick Bites",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 49
+      }
+     ]
+    },
+    {
+     "id": "i119",
+     "name": "Kesar Bun Maska",
+     "desc": "",
+     "section": "Quick Bites",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 49
+      }
+     ]
+    },
+    {
+     "id": "i120",
+     "name": "Fruit Salad with Ice Cream",
+     "desc": "",
+     "section": "Gourmet Desserts",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 159
+      }
+     ]
+    },
+    {
+     "id": "i121",
+     "name": "Strawberry with Cream",
+     "desc": "",
+     "section": "Gourmet Desserts",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 159
+      }
+     ]
+    },
+    {
+     "id": "i122",
+     "name": "Titonic Sundae / Triple Sundae",
+     "desc": "",
+     "section": "Gourmet Desserts",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 159
+      }
+     ]
+    },
+    {
+     "id": "i123",
+     "name": "Sizzling Brownie",
+     "desc": "",
+     "section": "Gourmet Desserts",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 249
+      }
+     ]
+    },
+    {
+     "id": "i124",
+     "name": "Special Ice Cream Bowl",
+     "desc": "",
+     "section": "Gourmet Desserts",
+     "type": "veg",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 249
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "icecream",
+   "name": "Ice Cream",
+   "group": "bev",
+   "hidden": false,
+   "items": []
+  },
+  {
+   "id": "hot",
+   "name": "Hot Beverages",
+   "group": "bev",
+   "hidden": false,
+   "items": [
+    {
+     "id": "i125",
+     "name": "Special Tea",
+     "desc": "",
+     "section": "Premium Teas",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 20
+      }
+     ]
+    },
+    {
+     "id": "i126",
+     "name": "Black Tea",
+     "desc": "",
+     "section": "Premium Teas",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 20
+      }
+     ]
+    },
+    {
+     "id": "i127",
+     "name": "Green Tea",
+     "desc": "",
+     "section": "Premium Teas",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 25
+      }
+     ]
+    },
+    {
+     "id": "i128",
+     "name": "Lemon Tea",
+     "desc": "",
+     "section": "Premium Teas",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 30
+      }
+     ]
+    },
+    {
+     "id": "i129",
+     "name": "Cardamom Tea",
+     "desc": "",
+     "section": "Premium Teas",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 25
+      }
+     ]
+    },
+    {
+     "id": "i130",
+     "name": "Nescafe",
+     "desc": "",
+     "section": "Coffees",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 35
+      }
+     ]
+    },
+    {
+     "id": "i131",
+     "name": "Black Coffee",
+     "desc": "",
+     "section": "Coffees",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 25
+      }
+     ]
+    },
+    {
+     "id": "i132",
+     "name": "Americano",
+     "desc": "",
+     "section": "Coffees",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 80
+      }
+     ]
+    },
+    {
+     "id": "i133",
+     "name": "Cappuccino",
+     "desc": "",
+     "section": "Coffees",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 90
+      }
+     ]
+    },
+    {
+     "id": "i134",
+     "name": "Cafe Latte",
+     "desc": "",
+     "section": "Coffees",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 99
+      }
+     ]
+    },
+    {
+     "id": "i135",
+     "name": "Espresso (Small)",
+     "desc": "",
+     "section": "Coffees",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 50
+      }
+     ]
+    },
+    {
+     "id": "i136",
+     "name": "Espresso (Big)",
+     "desc": "",
+     "section": "Coffees",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 79
+      }
+     ]
+    },
+    {
+     "id": "i137",
+     "name": "Vanilla Cappuccino",
+     "desc": "",
+     "section": "Coffees",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 110
+      }
+     ]
+    },
+    {
+     "id": "i138",
+     "name": "Vanilla Cafe Latte",
+     "desc": "",
+     "section": "Coffees",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 119
+      }
+     ]
+    },
+    {
+     "id": "i139",
+     "name": "Iris Cappuccino",
+     "desc": "",
+     "section": "Coffees",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 110
+      }
+     ]
+    },
+    {
+     "id": "i140",
+     "name": "Iris Cafe Latte",
+     "desc": "",
+     "section": "Coffees",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 119
+      }
+     ]
+    },
+    {
+     "id": "i141",
+     "name": "Hazelnut Cafe Latte",
+     "desc": "",
+     "section": "Coffees",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 110
+      }
+     ]
+    },
+    {
+     "id": "i142",
+     "name": "Hazelnut Cappuccino",
+     "desc": "",
+     "section": "Coffees",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 119
+      }
+     ]
+    },
+    {
+     "id": "i143",
+     "name": "Cafe Machito Small",
+     "desc": "",
+     "section": "Coffees",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 49
+      }
+     ]
+    },
+    {
+     "id": "i144",
+     "name": "Cafe Machito Large",
+     "desc": "",
+     "section": "Coffees",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 79
+      }
+     ]
+    },
+    {
+     "id": "i145",
+     "name": "Iris Americano",
+     "desc": "",
+     "section": "Coffees",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 79
+      }
+     ]
+    },
+    {
+     "id": "i146",
+     "name": "Chocolate Cappuccino",
+     "desc": "",
+     "section": "Coffees",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 110
+      }
+     ]
+    },
+    {
+     "id": "i147",
+     "name": "Caramel Latte",
+     "desc": "",
+     "section": "Coffees",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 149
+      }
+     ]
+    },
+    {
+     "id": "i148",
+     "name": "Caramel Cappuccino",
+     "desc": "",
+     "section": "Coffees",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 149
+      }
+     ]
+    },
+    {
+     "id": "i149",
+     "name": "Classic Hot Chocolate",
+     "desc": "",
+     "section": "TGS Special Hot Beverages",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 80
+      }
+     ]
+    },
+    {
+     "id": "i150",
+     "name": "Espresso Hot Chocolate",
+     "desc": "",
+     "section": "TGS Special Hot Beverages",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 90
+      }
+     ]
+    },
+    {
+     "id": "i151",
+     "name": "Wipe Hot Chocolate",
+     "desc": "",
+     "section": "TGS Special Hot Beverages",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 99
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cold",
+   "name": "Cold Beverages",
+   "group": "bev",
+   "hidden": false,
+   "items": [
+    {
+     "id": "i152",
+     "name": "Cafe Frappe",
+     "desc": "",
+     "section": "Cold Beverages",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 70
+      }
+     ]
+    },
+    {
+     "id": "i153",
+     "name": "Dark Frappe",
+     "desc": "",
+     "section": "Cold Beverages",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 90
+      }
+     ]
+    },
+    {
+     "id": "i154",
+     "name": "Cold Crunchy Frappe",
+     "desc": "",
+     "section": "Cold Beverages",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 99
+      }
+     ]
+    },
+    {
+     "id": "i155",
+     "name": "Special Golden Sip Frappe",
+     "desc": "",
+     "section": "Cold Beverages",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 120
+      }
+     ]
+    },
+    {
+     "id": "i156",
+     "name": "Ferrero Rocher Shake",
+     "desc": "",
+     "section": "Signature",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 199
+      }
+     ]
+    },
+    {
+     "id": "i157",
+     "name": "Brownie Burst Shake",
+     "desc": "",
+     "section": "Signature",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 149
+      }
+     ]
+    },
+    {
+     "id": "i158",
+     "name": "Choco Blast",
+     "desc": "",
+     "section": "Signature",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 199
+      }
+     ]
+    },
+    {
+     "id": "i159",
+     "name": "Oreo Shake",
+     "desc": "",
+     "section": "Signature",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 119
+      }
+     ]
+    },
+    {
+     "id": "i160",
+     "name": "Kitkat Shake",
+     "desc": "",
+     "section": "Signature",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 119
+      }
+     ]
+    },
+    {
+     "id": "i161",
+     "name": "Lassi",
+     "desc": "",
+     "section": "Signature",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 50
+      }
+     ]
+    },
+    {
+     "id": "i162",
+     "name": "Kesar Lassi",
+     "desc": "",
+     "section": "Signature",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 60
+      }
+     ]
+    },
+    {
+     "id": "i163",
+     "name": "Mango Lassi",
+     "desc": "",
+     "section": "Signature",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 60
+      }
+     ]
+    },
+    {
+     "id": "i164",
+     "name": "Butter Milk",
+     "desc": "",
+     "section": "Signature",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 40
+      }
+     ]
+    },
+    {
+     "id": "i165",
+     "name": "Bournvita Full",
+     "desc": "",
+     "section": "Signature",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 60
+      }
+     ]
+    },
+    {
+     "id": "i166",
+     "name": "Bournvita Half",
+     "desc": "",
+     "section": "Signature",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 30
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "shakes",
+   "name": "Shakes, Mastani & Falooda",
+   "group": "bev",
+   "hidden": false,
+   "items": [
+    {
+     "id": "i167",
+     "name": "Vanilla Milk Shake",
+     "desc": "",
+     "section": "Milk Shakes",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 80
+      }
+     ]
+    },
+    {
+     "id": "i168",
+     "name": "Strawberry Milk Shake",
+     "desc": "",
+     "section": "Milk Shakes",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 80
+      }
+     ]
+    },
+    {
+     "id": "i169",
+     "name": "Mango Milk Shake",
+     "desc": "",
+     "section": "Milk Shakes",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 90
+      }
+     ]
+    },
+    {
+     "id": "i170",
+     "name": "Chocolate Milk Shake",
+     "desc": "",
+     "section": "Milk Shakes",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 99
+      }
+     ]
+    },
+    {
+     "id": "i171",
+     "name": "Apple Milk Shake",
+     "desc": "",
+     "section": "Milk Shakes",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 109
+      }
+     ]
+    },
+    {
+     "id": "i172",
+     "name": "Butter Scotch Milk Shake",
+     "desc": "",
+     "section": "Milk Shakes",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 109
+      }
+     ]
+    },
+    {
+     "id": "i173",
+     "name": "Kesar Milk Shake",
+     "desc": "",
+     "section": "Milk Shakes",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 119
+      }
+     ]
+    },
+    {
+     "id": "i174",
+     "name": "Dryfruit Shake",
+     "desc": "",
+     "section": "Milk Shakes",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 135
+      }
+     ]
+    },
+    {
+     "id": "i175",
+     "name": "Truffle Milk Shake",
+     "desc": "",
+     "section": "Milk Shakes",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 135
+      }
+     ]
+    },
+    {
+     "id": "i176",
+     "name": "Biscoff Milk Shake",
+     "desc": "",
+     "section": "Milk Shakes",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 135
+      }
+     ]
+    },
+    {
+     "id": "i177",
+     "name": "Pista Milk Shake",
+     "desc": "",
+     "section": "Milk Shakes",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 135
+      }
+     ]
+    },
+    {
+     "id": "i178",
+     "name": "Mango Mastani",
+     "desc": "",
+     "section": "Mastani Special",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 149
+      }
+     ]
+    },
+    {
+     "id": "i179",
+     "name": "Pista Mastani",
+     "desc": "",
+     "section": "Mastani Special",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 149
+      }
+     ]
+    },
+    {
+     "id": "i180",
+     "name": "Butter Scotch Mastani",
+     "desc": "",
+     "section": "Mastani Special",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 149
+      }
+     ]
+    },
+    {
+     "id": "i181",
+     "name": "Chocolate Mastani",
+     "desc": "",
+     "section": "Mastani Special",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 149
+      }
+     ]
+    },
+    {
+     "id": "i182",
+     "name": "Strawberry Mastani",
+     "desc": "",
+     "section": "Mastani Special",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 149
+      }
+     ]
+    },
+    {
+     "id": "i183",
+     "name": "Kesar Pista Mastani",
+     "desc": "",
+     "section": "Mastani Special",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 149
+      }
+     ]
+    },
+    {
+     "id": "i184",
+     "name": "Keshar Badam Mastani",
+     "desc": "",
+     "section": "Mastani Special",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 149
+      }
+     ]
+    },
+    {
+     "id": "i185",
+     "name": "Dry Fruit Mastani",
+     "desc": "",
+     "section": "Mastani Special",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 159
+      }
+     ]
+    },
+    {
+     "id": "i186",
+     "name": "Special TGS Mastani",
+     "desc": "",
+     "section": "Mastani Special",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 169
+      }
+     ]
+    },
+    {
+     "id": "i187",
+     "name": "Kesar Falooda",
+     "desc": "",
+     "section": "Falooda Special",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 149
+      }
+     ]
+    },
+    {
+     "id": "i188",
+     "name": "Pista Falooda",
+     "desc": "",
+     "section": "Falooda Special",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 149
+      }
+     ]
+    },
+    {
+     "id": "i189",
+     "name": "Rose Falooda",
+     "desc": "",
+     "section": "Falooda Special",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 149
+      }
+     ]
+    },
+    {
+     "id": "i190",
+     "name": "Special Falooda",
+     "desc": "",
+     "section": "Falooda Special",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 169
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mocktails",
+   "name": "Mocktails & Juice",
+   "group": "bev",
+   "hidden": false,
+   "items": [
+    {
+     "id": "i191",
+     "name": "Virgin Mojito",
+     "desc": "",
+     "section": "Mocktails",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 90
+      }
+     ]
+    },
+    {
+     "id": "i192",
+     "name": "Water Melon Mojito",
+     "desc": "",
+     "section": "Mocktails",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 90
+      }
+     ]
+    },
+    {
+     "id": "i193",
+     "name": "Blue Berry",
+     "desc": "",
+     "section": "Mocktails",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 90
+      }
+     ]
+    },
+    {
+     "id": "i194",
+     "name": "Kala Khatta",
+     "desc": "",
+     "section": "Mocktails",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 90
+      }
+     ]
+    },
+    {
+     "id": "i195",
+     "name": "Green Angel",
+     "desc": "",
+     "section": "Mocktails",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 90
+      }
+     ]
+    },
+    {
+     "id": "i196",
+     "name": "Guava Merry",
+     "desc": "",
+     "section": "Mocktails",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 129
+      }
+     ]
+    },
+    {
+     "id": "i197",
+     "name": "Strawberry Sunshine",
+     "desc": "",
+     "section": "Mocktails",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 90
+      }
+     ]
+    },
+    {
+     "id": "i198",
+     "name": "Kiwi Fizz",
+     "desc": "",
+     "section": "Mocktails",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 90
+      }
+     ]
+    },
+    {
+     "id": "i199",
+     "name": "Cran Berry",
+     "desc": "",
+     "section": "Mocktails",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 90
+      }
+     ]
+    },
+    {
+     "id": "i200",
+     "name": "Blue Angel",
+     "desc": "",
+     "section": "Mocktails",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 90
+      }
+     ]
+    },
+    {
+     "id": "i201",
+     "name": "Virgin Pina Colada",
+     "desc": "",
+     "section": "Mocktails",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 109
+      }
+     ]
+    },
+    {
+     "id": "i202",
+     "name": "Fruit Punch",
+     "desc": "",
+     "section": "Mocktails",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 129
+      }
+     ]
+    },
+    {
+     "id": "i203",
+     "name": "Mosambi Juice",
+     "desc": "",
+     "section": "Fresh Fruit Juices",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 99
+      }
+     ]
+    },
+    {
+     "id": "i204",
+     "name": "Orange Juice",
+     "desc": "",
+     "section": "Fresh Fruit Juices",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 99
+      }
+     ]
+    },
+    {
+     "id": "i205",
+     "name": "Pineapple Juice",
+     "desc": "",
+     "section": "Fresh Fruit Juices",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 99
+      }
+     ]
+    },
+    {
+     "id": "i206",
+     "name": "Maramari Mix",
+     "desc": "",
+     "section": "Fresh Fruit Juices",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 99
+      }
+     ]
+    },
+    {
+     "id": "i207",
+     "name": "Mango Juice",
+     "desc": "",
+     "section": "Fresh Fruit Juices",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 99
+      }
+     ]
+    },
+    {
+     "id": "i208",
+     "name": "Ganga Jamuna",
+     "desc": "",
+     "section": "Fresh Fruit Juices",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 99
+      }
+     ]
+    },
+    {
+     "id": "i209",
+     "name": "Apple Juice",
+     "desc": "",
+     "section": "Fresh Fruit Juices",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 129
+      }
+     ]
+    },
+    {
+     "id": "i210",
+     "name": "Anjam Juice",
+     "desc": "",
+     "section": "Fresh Fruit Juices",
+     "type": "",
+     "available": true,
+     "prices": [
+      {
+       "label": "",
+       "price": 139
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
